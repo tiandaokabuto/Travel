@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # travel
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Travel
+使用Vue仿写去哪儿网
+>>>>>>> fb2d3e01ba8656a6225eb92137624b8e0968b1d8
